@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Ihsan Baihaqi
 
-🚀 **Full Stack Developer & Electronics Enthusiast** | 🌍 **Berdasarkan di Indonesia** | ✉️ **Hubungi saya:** ihsan104209@gmail.com
+🚀 **Full Stack Developer & Electronics** | 🌍 **Wilayah Indonesia** | ✉️ **Hubungi saya:** ihsan104209@gmail.com
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Ihsan+Baihaqi;Ihsan+Baihaqi;Ihsan+Baihaqi" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Selamat+Datang+di+Profil+Saya;Code+%26+Electronics+Enthusiast" alt="Typing SVG" />
@@ -34,12 +34,13 @@
   <img src="https://streak-stats.demolab.com?user=ihsanbaihaqii&theme=dark" alt="GitHub Streak" />
 </div>
 
-## 🌱 Sedang Dipelajari
+## 🌱 Sedang Mempelajari
 
 - [ ] **Internet of Things (IoT)**
 - [ ] **Advanced PCB Design**
 - [ ] **React Framework**
 - [ ] **Industrial Automation**
+- [ ] **Assistant AI**
 
 ## 📫 Cara Menghubungi Saya
 
@@ -49,10 +50,10 @@
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@SaanModz)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ihsan104209@gmail.com)
 
-## 💻 Proyek Terbaru
+## 💻 Proyek Terbaru Saya
 
 1. **[Portofolio](https://ihsanbaihaqii.github.io)** - Portofolio Saya
-2. **[Rencana Project](https://ihsanbaihaqii.github.io/saan-project/)** - Rencana Project Yang Akan Dibuat
+2. **[Rencana Project](https://ihsanbaihaqii.github.io/saan-project/)** - Rencana Project Yang Akan Saya Dibuat
 
 ## 💡 Quote Inspirasi
 
