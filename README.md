@@ -1,7 +1,6 @@
 # 👋 Halo, Saya Ihsan Baihaqi
 
 🚀 **Full Stack Developer & Electronics** | 🌍 **Wilayah Indonesia** | ✉️ **Hubungi saya:** ihsan104209@gmail.com
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Ihsan+Baihaqi;Ihsan+Baihaqi;Ihsan+Baihaqi" />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Ihsan+Baihaqi&animation=fadeIn&type=waving&color=gradient&height=100" />
 </div>
