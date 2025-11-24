@@ -32,7 +32,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsanbaihaqii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://streak-stats.demolab.com?user=ihsanbaihaqii&theme=dark" alt="GitHub Streak" />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=ihsanbaihaqii&theme=tokyonight&hide_border=PALSU&short_numbers=PALSU)](https://git.io/streak-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanbaihaqii&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
