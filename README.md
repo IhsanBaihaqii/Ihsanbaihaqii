@@ -1,5 +1,7 @@
 # 👋 Halo, Saya Ihsan Baihaqi
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=3AD72D&center=true&width=435&lines=Selamat+datang+di+github+saya)](https://git.io/typing-svg)
+
 🚀 **Full Stack Developer & Electronics** | 🌍 **Wilayah Indonesia** | ✉️ **Hubungi saya:** ihsan104209@gmail.com
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Ihsan%20Baihaqi&section=header&reversal=false&textBg=false&fontSize=84&animation=fadeIn&stroke=000000&strokeWidth=1&descAlign=88" />
