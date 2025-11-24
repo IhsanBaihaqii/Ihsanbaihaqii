@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer & Electronics** | 🌍 **Wilayah Indonesia** | ✉️ **Hubungi saya:** ihsan104209@gmail.com
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Ihsan+Baihaqi&animation=fadeIn&type=waving&color=gradient&height=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Ihsan%20Baihaqi&section=header&reversal=false&textBg=false&fontSize=84&animation=fadeIn&stroke=000000&strokeWidth=1&descAlign=88" />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Selamat+Datang+di+Profil+Saya;Code+%26+Electronics+Enthusiast" alt="Typing SVG" />
