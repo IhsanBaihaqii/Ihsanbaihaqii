@@ -40,7 +40,7 @@
 ## 🌱 Sedang Mempelajari
 
 - [ ] **Internet of Things (IoT)**
-- [ ] **Advanced PCB Design**
+- [ ] **Laravel**
 - [ ] **React Framework**
 - [ ] **Industrial Automation**
 - [ ] **Assistant AI**
