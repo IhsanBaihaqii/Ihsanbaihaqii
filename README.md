@@ -41,6 +41,7 @@
 
 - [ ] **Internet of Things (IoT)**
 - [ ] **Laravel**
+- [ ] **Tailwin CSS**
 - [ ] **React Framework**
 - [ ] **Industrial Automation**
 - [ ] **Assistant AI**
