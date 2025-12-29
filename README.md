@@ -29,13 +29,15 @@
 ![Industrial Electronics](https://img.shields.io/badge/-Industrial_Electronics-4CAF50?style=flat-square&logo=industrial-control&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihsanbaihaqii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanbaihaqii&layout=compact&langs_count=8&theme=dark"/>
-  <img src="https://streak-stats.demolab.com?user=ihsanbaihaqii&theme=tokyonight&hide_border=PALSU&short_numbers=PALSU" alt="GitHub Streak" />
+---
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://streak-stats.demolab.com?user=ihsanbaihaqii&theme=tokyonight&hide_border=PALSU&short_numbers=PALSU" alt="GitHub Streak" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihsanbaihaqii&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihsanbaihaqii&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ihsanbaihaqii&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=idlanyor&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihsanbaihaqii&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
 </div>
-
 
 ## 🌱 Sedang Mempelajari
 
