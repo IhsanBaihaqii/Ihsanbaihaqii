@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 ---
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://streak-stats.demolab.com?user=ihsanbaihaqii&theme=tokyonight&hide_border=PALSU&short_numbers=PALSU" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/demo/preview.php?user=ihsanbaihaqii&theme=tokyonight&hide_border=PALSU&short_numbers=PALSU" alt="GitHub Streak" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihsanbaihaqii&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihsanbaihaqii&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ihsanbaihaqii&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
