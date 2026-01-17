@@ -58,7 +58,7 @@
 
 ## 💻 Proyek Terbaru Saya
 
-1. **[Portofolio](https://ihsanbaihaqii.github.io)** - Portofolio Saya
+1. **[Portofolio](https://ihsan-baihaqi.vercel.app/)** - Portofolio Saya
 2. **[Rencana Project](https://ihsanbaihaqii.github.io/saan-project/)** - Rencana Project Yang Akan Saya Dibuat
 
 ## 💡 Quote Inspirasi
